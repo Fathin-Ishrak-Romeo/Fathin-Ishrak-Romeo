@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I am Fathin Ishrak Romeo</h1>
 <h3 align="center">I am currently a student of Computer Science and Engineering at Brac University.</h3>
-<(img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a03d2ed7712c058954d47b959f0bed2b837595cf2ac1d4383cdcd5e5b84c40a1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathin-ishrak-romeo&label=Profile%20views&color=0e75b6&style=flat" alt="fathin-ishrak-romeo" /> </p>
 
@@ -20,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fathin-ishrak-romeo&show_icons=true&locale=en&layout=compact" alt="fathin-ishrak-romeo" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fathin-ishrak-romeo&show_icons=true&locale=en" alt="fathin-ishrak-romeo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fathin-ishrak-romeo&show_icons=true&locale=en" alt="fathin-ishrak-romeo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fathin-ishrak-romeo&" alt="fathin-ishrak-romeo" /></p>
