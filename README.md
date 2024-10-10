@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathin-ishrak-romeo&label=Profile%20views&color=0e75b6&style=flat" alt="fathin-ishrak-romeo" /> </p>
 
-🚀 How to reach me 📩: **romeoisoffline@gmail.com**
+🚀 How to reach me 📩: **fathin.ishrak7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
