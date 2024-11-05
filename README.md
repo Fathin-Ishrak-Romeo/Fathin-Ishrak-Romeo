@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I am Fathin Ishrak Romeo..</h1>
-<h3 align="center">I am currently a student of Computer Science and Engineering at Brac University.</h3>
+
+<h3 align="center">👨🏻‍🎓: Computer Science and Engineering </h3>
+<h3 align="center">🏛️: BRAC University </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathin-ishrak-romeo&label=Profile%20views&color=0e75b6&style=flat" alt="fathin-ishrak-romeo" /> </p>
 
